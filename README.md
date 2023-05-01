@@ -1,0 +1,2 @@
+# Eye-Blink-Detection
+Spoofing refers to the act of attempting to deceive a biometric system by presenting fake or artificial biometric data. In the case of eye-based biometric systems, such as iris recognition or eye-tracking, it is possible to spoof the system by presenting a static image or video of an individual's eyes instead of their actual eyes. To prevent such spoofing attacks, eye blink detection can be used as a countermeasure.
