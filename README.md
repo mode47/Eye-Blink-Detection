@@ -15,3 +15,8 @@ pip install mediapipe --user
 ```bash
 pip install ffmpeg-python
 ```
+# test app 
+
+
+https://user-images.githubusercontent.com/66750711/235809423-974230ab-6765-4e23-a5dd-89ff750d44f9.mp4
+
